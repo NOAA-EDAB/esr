@@ -1,0 +1,6 @@
+book_filename: "NES_ESR"
+repo: https://github.com/noaa-edab/esr
+output_dir: docs
+rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
