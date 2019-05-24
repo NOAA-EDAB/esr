@@ -1,6 +1,6 @@
 --- 
 title: "Ecosystem Status Report for the Northeast Large Marine Ecosystem"
-author: "Northeast Fisheries Science Center\nNOAA Fisheries Service\n166 Water Street\nWoods Hole, MA 02543"
+author: ""
 date: "2019-05-24"
 site: bookdown::bookdown_site
 documentclass: book
@@ -11,6 +11,11 @@ github-repo: noaa-edab/esr
 url: 'https\://noaa-edab.github.io/esr/'
 description: ""
 ---
+Northeast Fisheries Science Center
+NOAA Fisheries Service
+166 Water Street
+Woods Hole, MA 02543
+
 
 # Main Findings {-}
 
