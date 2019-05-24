@@ -1,4 +1,33 @@
-# Introduction
+# Executive Summary {-}
 
-This is the first real chapter.
+National and international efforts are now underway to establish an integrated framework for fisheries management accounting for ecosystem factors. A critical element of this overall approach involves an assessment of ecosystem status and trends. The NEFSC Ecosystem Status Report is intended to meet this need for the Northeast Continental Shelf Ecosystem Large Marine Ecosystem (NES LME). Here, we provide a synopsis of selected sections of the overall report.
 
+We first provide observations on climate forcing and hydrographic conditions. We next document changes at the base of the food web (including the production of the phytoplankton that fuel the system and the small planktonic animals that graze on these microscopic plants and serve as prey for fish and other species). We further report on the status of fish and shellfish of commercial and recreational importance that provide high quality food resources. Humans are an integral part of marine ecosystems; accordingly we provide metrics related to human well-being and the status of certain uses of the ocean in addition to fishing. Finally, we describe several pressures and stressors affecting the status of the system. The highlights of this report are summarized here.
+
+Many figures in this report describe recent and long-term trends and follow a common format for indicating status and trend. The data in the most recent five years (the green shaded area) may have a status above (+), below (-), or within (·) the long term variability, and may show an increasing (↗), decreasing (↘), or no (↔) trend. Inadequate recent data to determine status or trend is indicated by (x).
+
+## Basin-Scale Climate Drivers
+Weather and climate patterns off the Northeastern United States are strongly influenced by processes operating over the entire North Atlantic Basin. Large-scale atmospheric pressure cells play a dominant role in these processes.
+
+The North Atlantic Oscillation (NAO) has been associated with changes in physical and biological components of the North Atlantic, including the U.S. Northeast Continental Shelf. The NAO index is based on the difference in the strength of the Icelandic low pressure atmospheric system and the Bermuda-Azores high pressure system. The NAO has largely been in a positive phase (indicating a dominance of the high pressure system) over the last several decades. However, negative NAO indices have been observed in 3 of the last 5 years (Figure 2.1) with a very low observed NAO value in 2010. During negative NAO conditions, the probability of incursions of the Labrador Current onto the NES increases, bringing fresher, less productive waters into our region. The NAO has been correlated with changes in recruitment of a number of fish species on the NES.
+
+```r{}
+knitr::include_graphics("images/ex2.1.png")
+```
+The Atlantic Multidecadal Oscillation (AMO) is a second major basin-scale indicator of climatic conditions in the region, reflecting patterns of sea surface temperature (SST). The warm and cool phases of the AMO have been associated with Atlantic hurricane activity, North American and European summer climate, and changes in the abundance and distribution of North Atlantic biota ranging from phytoplankton to fish. The AMO is currently in a positive (warm) phase, persisting since the shift from a negative (cool) phase in the late 1990s (Figure 2.1). While the mean annual SST for the year 2012 in the U.S. NES LME was the warmest on record (see Section 3), the 2012 mean AMO index did not reflect this event.The NES has historically warmed more quickly than the rest of the North Atlantic during positive phasse of the AMO.
+
+Interannual shifts in the position of the Gulf Stream are correlated with atmospheric fluctuations over the North Atlantic, including the NAO. An index of the position of the North Wall of the Gulf Stream, available since 1966, reveals a shift in the early 1980s from low to high index values (Figure 2.1), reaching a peak in the early-1990s, and characterized by subsequent multiyear reversals related to changes in the NAO index. The Gulf Stream North Wall index has been related to changes in zooplankton communities in the Northeast Atlantic, but the connection in the Northwest Atlantic appears to be weaker. Interestingly, the relationship between NAO and Gulf Stream position is not as clear after year 2000. Around this time, the character of the NAO changes, shifting away from prolonged periods of high or low toward a weaker higher-frequency oscillation.
+
+
+## Regional Climate Indicators
+Temperature
+Chart showing long-term sea surface temperatures averaged over the northeast U.S. continental shelf and adjacent waters. Figure 3.1
+Temperature in the NES has varied substantially over the past 150 years. The late 1800s to the early 1900s was the coolest period on record, followed by a period of warm temperatures from 1945-1955. There was a rapid drop in temperatures through the 1960s followed by a steady increase to the present. Sea surface temperatures were the warmest on record in 2012. Temperatures moderated somewhat in 2013-2014 but remain well above average (Figure 3.1). The overall seasonal increase in temperatures has been accompanied by a number of ecosystem changes including shifts in the distribution patterns of fish populations (see Section 5). A significant number of important fishery species including cod, haddock, and yellowtail flounder are at the southern extent of the range in our area and are projected to experience changes in recruitment and distribution. Conversely, certain subtropical-temperate species such as croaker are predicted to increase in abundance and expand their range in the mid-Atlantic Bight if climate projection scenarios hold.
+
+Stratification
+Chart showing thermal layering of the upper 50m of the water column for the Gulf of Maine, Georges Bank and the Mid-Atlantic Bight Figure 3.2
+During much of the year, portions of the northeast U.S. shelf are stratified. Stratification refers to the vertical stacking of layers of water having different densities due to differences in temperature and salinity at different depths within the water column. Stratification is important because surface dwelling primary producers need to stay in sunlit waters, but deeper waters are often nutrient rich. Increased stratification makes it harder for these nutrient rich waters to be mixed to the surface where they are available to primary producers, potentially resulting in lower overall productivity in the systems. We have experienced increased stratification in the NES overall over the last decade or more (Figure 3.2). These increases are related to increased temperature levels and changes in salinity. The Mid-Atlantic Bight is the most strongly stratified of the subregions, so there is less scope for further increases in this area.
+```r{}
+knitr::include_graphics("images/ex3.1.png")
+knitr::include_graphics("images/ex3.2.png")
+```
